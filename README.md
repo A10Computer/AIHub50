@@ -5,6 +5,7 @@
 ![UI](https://img.shields.io/badge/UI-WPF-darkgreen)
 ![AI](https://img.shields.io/badge/AI-Hub-purple)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-Free%20to%20use-orange)
 
 A modern AI launcher dashboard built with **PowerShell + WPF**.
 
