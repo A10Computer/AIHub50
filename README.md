@@ -13,7 +13,7 @@ AI Hub Ultra provides a centralized graphical interface for quickly accessing po
 
 **Ideal for beginners and professionals who regularly work with various AI tools.**
 
-The ZIP file contains an executable file "AI-Hub.exe" - Administrator rights are not required.
+The ZIP file contains an executable file "AIHubUltra.exe" - Administrator rights are not required.
 
 
 Free to use
